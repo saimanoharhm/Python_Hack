@@ -1,6 +1,6 @@
 # Python_Hack
 
-This Project is all about 100 days of code on Python. Challenge given by [Harsh Mishra](https://github.com/HarshCasper)
+This Project is all about 100 days of code challenge on Python. Challenge given by [Harsh Mishra](https://github.com/HarshCasper)
 
 
 -[Day1](Band_name_Generator.py)
