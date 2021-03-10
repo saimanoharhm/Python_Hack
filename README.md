@@ -8,3 +8,5 @@ This Project is all about 100 days of code challenge on Python. Challenge given 
 -[Day-2](Tip_Calculator.py)
 
 -[Day-3](Treasure_Island.py)
+
+-[Day-4](Rock-paper-scissors.py)
