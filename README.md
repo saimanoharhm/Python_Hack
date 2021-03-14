@@ -13,4 +13,4 @@ This Project is all about 100 days of code challenge on Python. Challenge has gi
 
 -[Day-5](Password_Generator.py)
 
--[Day-6](Escaping_Maze/Escaping_Maze.py)
+-[Day-6](Escaping_Maze)
