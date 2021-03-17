@@ -17,3 +17,7 @@ This Project is all about 100 days of code challenge on Python. Challenge has gi
 -[Day-7](Hangman)
 
 -[Day-8](caesar_cipher)
+
+-[Day-9](blind_auction)
+
+-[Day-10](calculator)
