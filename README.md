@@ -23,3 +23,5 @@ This Project is all about 100 days of code challenge on Python. Challenge has gi
 -[Day-10](calculator)
 
 -[Day-11](black_jack)
+
+-[Day-12](guess_the_number)
