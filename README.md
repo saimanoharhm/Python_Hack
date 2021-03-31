@@ -4,11 +4,11 @@ This Project is all about 100 days of code challenge on Python. Challenge has gi
 
 -[Day-1](Band_name_Generator.py)
 
--[Day-2](Tip_Calculator.py)
+-[Day-2](tip_calculator)
 
--[Day-3](Treasure_Island.py)
+-[Day-3](treasure_island)
 
--[Day-4](Rock-paper-scissors.py)
+-[Day-4](rock_paper_scissors)
 
 -[Day-5](Password_Generator.py)
 
