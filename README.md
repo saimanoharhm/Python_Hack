@@ -2,7 +2,7 @@
 
 This Project is all about 100 days of code challenge on Python. Challenge has given by [Harsh Mishra](https://github.com/HarshCasper)
 
--[Day-1](Band_name_Generator.py)
+-[Day-1](band_name_generator)
 
 -[Day-2](tip_calculator)
 
@@ -28,6 +28,6 @@ This Project is all about 100 days of code challenge on Python. Challenge has gi
 
 -[Day-14](higher_lower)
 
--[Day-15]
+-[Day-15](coffee_machine)
 
--[Day-16]
+-[Day-16](oops_coffee_machine)
