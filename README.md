@@ -33,3 +33,7 @@ This Project is all about 100 days of code challenge on Python. Challenge has gi
 -[Day-16](oops_coffee_machine)
 
 -[Day-17](quiz_game)
+
+-[Day-18](hirst_painting)
+
+-[Day-19](turtle_race)
